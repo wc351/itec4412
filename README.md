@@ -1,5 +1,5 @@
-## ITEC 4412 - Intermediate Webmaster
-## Fall 2014 
+### Fall 2014 - ITEC 4412 - Intermediate Webmaster
+
 One of the primary goals of this class is for students to gain experience working on a project with others in Github.  We will be discussing different project ideas and building groups from there.  Each group will ideally have three members.  Good in code documentation, quality commit messages and use of pull requests will be critical to executing a successful project.  In order for students to get the most out of the course the projects will need to to be something that students are interested in working on.  We are looking to begin a discussion on what the projects will be.  In order to get things started we are offering the following projects for discussion.  Feel free to propose your own ideas (you can submit a pull request on this document right on the GitHub page) or discuss them in the related issue thread.
 
 ### Suggestions for projects
