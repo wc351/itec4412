@@ -17,5 +17,8 @@ For this project the students will build a web page that can be used by any stud
 #### 4. Lake Data Project
 For this project students will start version two of an existing web project. The students will be building adding a download function to the charts page, an update function for different data or time for the charts page. A data entry page will be created that allows for the manual entry of data as well as uploading of a spread sheet. The site will need to be made responsive as well. 
 
-#### 5. Student Suggested Projects
+#### 5. Eve Online Project
+This project will work on connecting the Eve Online's APIs to a webpage so that users can scroll through different data from the game. This will focus on using APIs so that the students can better understand how to integrate an API into any existing project or future project. 
+
+#### 6. Student Suggested Projects
 What ideas do you have for a project? The project requires; a GIS aspect (map, location data, etc.), use of Django, and must be built in stages and up loaded to a group repository throughout the length of the project.
