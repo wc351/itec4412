@@ -20,5 +20,8 @@ For this project students will start version two of an existing web project. The
 #### 5. Eve Online Project
 This project will work on connecting the Eve Online's APIs to a webpage so that users can scroll through different data from the game. This will focus on using APIs so that the students can better understand how to integrate an API into any existing project or future project. 
 
-#### 6. Student Suggested Projects
+#### 6. Georgia Congress 
+This project would be crating a map based on the votes of the Georgia House and Senate. This map would then be downloadable for the user. The map would show yes or no votes and if the the person is democrat or Republican.
+
+#### 7. Student Suggested Projects
 What ideas do you have for a project? The project requires; a GIS aspect (map, location data, etc.), use of Django, and must be built in stages and up loaded to a group repository throughout the length of the project.
